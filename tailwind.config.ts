@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        custVeryDarkGrayishBlue: "hsl(217, 19%, 35%)",
+        custDesaturatedDarkBlue: "hsl(214, 17%, 51%)",
+        custGrayishBlue: "hsl(212, 23%, 69%)",
+        custLightGrayishBlue: "hsl(210, 46%, 95%)",
       },
     },
   },
